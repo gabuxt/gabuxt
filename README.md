@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabuxt&layout=compact&langs_count=7&theme=dark"/>
 </div>
  <div style="display: inline_block"><br>
-  <img align="right" alt="Gabriel" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
+  <img align="right" height="115em" alt="Gabriel" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
  </div>
  <h1></h1>
  <div> 
