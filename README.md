@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel Nascimento!
  <div>
   <a href="https://github.com/gabuxt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabuxt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"/>
 </div>
  
